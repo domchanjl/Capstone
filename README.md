@@ -14,8 +14,6 @@ Root Mean Squared Error was the choice metric to judge the best performing model
 ---
 ### Executive Summary
 
-Contents: Ames, Iwoa, Housing Data set. 
-Data Documentation: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
 - Data Gathering
 - Exploratory Data Analysis
