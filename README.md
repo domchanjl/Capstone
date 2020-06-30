@@ -1,4 +1,4 @@
-# CAPSTONE Submissions
+# Kaggle Submission
 ## COVID-19 and Week 4 Kaggle Challenge
 ---
 ### Problem Statement
